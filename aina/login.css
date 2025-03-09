@@ -1,0 +1,57 @@
+html,
+
+.form-signin {
+  max-width: 25rem;
+  margin: auto;
+}
+
+body {
+    padding: 20px; 
+    margin: 60px auto;
+    background-color: #F2ECDD;
+}
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 25px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+  }
+  
+  input[type=submit] {
+    width: 100%;
+    background-color:#CD9C20;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  input[type=submit]:hover {
+    background-color:#F5CB5C;
+    color: black;
+  }
+  div {
+    
+    background-color: #ffff;
+    box-shadow: 0 7px 12px 0 #0000;
+    border-radius: 10px;
+    margin: auto;
+    font-family: "Noto Serif Thai", serif;
+    
+}
+h3,h1{
+    text-align: center;
+    font-family: "Noto Serif Thai", serif;
+}
+
+a{
+    text-align: center;
+    font-family: "Noto Serif Thai", serif;
+    color: #0B0B0B;
+}
